@@ -29,7 +29,7 @@
 
 通过网页F12可以查看
 
-![image-20220415102710746](C:\Users\Tang\AppData\Roaming\Typora\typora-user-images\image-20220415102710746.png)
+![](../Picture/CSS进阶/继承性.png)
 
 **注：CSS可以继承的属性都是关于文字的，比如：color，font-size，font-family**
 
@@ -481,7 +481,7 @@ height（高度）、padding（内边距）、border（边框）、margin（外�
 
 盒子实际占位区域：width+height+padding+border+margin
 
-![image-20220421175231691](C:\Users\Tang\AppData\Roaming\Typora\typora-user-images\image-20220421175231691.png)
+![](../Picture/CSS进阶/继承性.png)
 
 ```html
 <head>

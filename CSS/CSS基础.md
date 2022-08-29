@@ -42,9 +42,7 @@ CSS的属性样式发生了改变由HTML的k='v'变为k:v
   - 单词表示法
   - 颜色值（十六进制、rgba）
 
-<img src="C:\Users\Tang\AppData\Roaming\Typora\typora-user-images\image-20220410132331618.png" alt="image-20220410132331618" style="zoom: 150%;" />
-
-
+![](../Picture/CSS基础/CSS颜色16进制.png)
 
 ### 2、font-size字号
 
@@ -162,7 +160,7 @@ style写在标签内的叫做行内式样式
 </html>
 ```
 
- link标签的作用就是引入外部文件，通过href属性，属性值是文件地址
+link标签的作用就是引入外部文件，通过href属性，属性值是文件地址
 
 rel属性值如果是stylesheet，代表的就是引入样式表
 
